@@ -16,7 +16,7 @@ export default function Users() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Users! (search)</ThemedText>
+        <ThemedText type="title">Users! (home,profile,search)</ThemedText>
         <HelloWave />
       </ThemedView>
     </ParallaxScrollView>
