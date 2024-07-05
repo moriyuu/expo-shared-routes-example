@@ -1,50 +1,8 @@
-# Welcome to your Expo app 👋
+# expo-shared-routes-example
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+- shared routes: https://docs.expo.dev/router/advanced/shared-routes/
+- shared routes (with arrays): https://docs.expo.dev/router/advanced/shared-routes/#arrays
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+|[shared routes](https://github.com/moriyuu/expo-shared-routes-example/tree/dfcbf92455747af6a837bfa36a8cb2974765c7a9)|[shared routes (with arrays)](https://github.com/moriyuu/expo-shared-routes-example/tree/876851d52fec2bdde650768d143bc383633cccb6)|
+|---|---|
+| ![CleanShot 2024-07-05 at 21 35 10](https://github.com/moriyuu/expo-shared-routes-example/assets/20125542/3d8d73f1-eeb7-41e8-892f-40b063163057) | ![CleanShot 2024-07-05 at 21 32 35](https://github.com/moriyuu/expo-shared-routes-example/assets/20125542/938b9938-d98a-4c22-ba41-d3ccc1caa326) |
